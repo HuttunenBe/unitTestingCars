@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "carname": "Ovlov",
+    "model": "chrome",
+    "price": 36,
+    "power": 100,
+    "colors": [
+      "blue",
+      "orange",
+      "black"
+    ],
+    "info": {
+      "consumptionPer100km": 3,
+      "powerSource": "hybrid",
+      "notes": "low emission"
+    }
+  },
+  {
+    "id": 2,
+    "carname": "Electro",
+    "model": "GT",
+    "price": 36,
+    "power": 10,
+    "colors": [
+      "blue",
+      "green",
+      "white"
+    ],
+    "info": {
+      "consumptionPer100km": 1,
+      "powerSource": "gas",
+      "notes": "no comments"
+    }
+  },
+  {
+    "id": 3,
+    "model": "VIP",
+    "price": 300,
+    "power": 30,
+    "colors": [
+      "red",
+      "white",
+      "yellow"
+    ],
+    "info": {
+      "consumptionPer100km": 5,
+      "powerSource": "hydrogen",
+      "notes": "old model"
+    }
+  },
+  {
+    "id": 4,
+    "model": "XXL",
+    "price": 10,
+    "power": 10,
+    "colors": [
+      "black",
+      "blue",
+      "red"
+    ],
+    "info": {
+      "consumptionPer100km": 3,
+      "powerSource": "pedalling",
+      "notes": "no comments"
+    }
+  },
+  {
+    "id": 5,
+    "model": "gold",
+    "price": 300,
+    "power": 130,
+    "colors": [
+      "orange",
+      "black",
+      "red"
+    ]
+  }
+]
